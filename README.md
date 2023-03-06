@@ -37,6 +37,11 @@ npx hardhat test
 - [x] Refund
 - [x] Withdraw
 
+### Badge
+- [x] Mint
+- [x] Soulbound
+- [x] EIP712 signing claimable
+
 ### AirdropUtil
 - [x] Multiple Airdrop ERC20 Token
 - [x] Multiple Airdrop ETH(BNB etc.)
